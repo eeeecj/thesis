@@ -1,0 +1,390 @@
+@article{卢凯2010进口单独放行方式下的干道双向绿波协调控制数解算法,
+  title={进口单独放行方式下的干道双向绿波协调控制数解算法},
+  author={卢凯 and 徐建闽 and 李轶舜},
+  journal={中国公路学报},
+  volume={23},
+  number={3},
+  pages={95--101},
+  year={2010}
+}
+
+@article{卢凯2015非对称通行条件下的双向绿波协调控制数解算法,
+  title={非对称通行条件下的双向绿波协调控制数解算法},
+  author={卢凯 and 刘永洋 and 吴焕 and 黄江辉},
+  journal={中国公路学报},
+  volume={28},
+  number={6},
+  pages={95--103},
+  year={2015}
+}
+
+@article{荆彬彬2017基于双向最大绿波带宽的通用干道协调控制数解算法,
+  title={基于双向最大绿波带宽的通用干道协调控制数解算法},
+  author={荆彬彬 and 鄢小文 and 吴焕 and 徐建闽},
+  journal={交通运输系统工程与信息},
+  volume={17},
+  number={2},
+  pages={76--82},
+  year={2017}
+}
+
+@article{morgan1964synchronizing,
+  title={Synchronizing traffic signals for maximal bandwidth},
+  author={Morgan, John T and Little, John DC},
+  journal={Operations Research},
+  volume={12},
+  number={6},
+  pages={896--912},
+  year={1964},
+  publisher={INFORMS}
+}
+
+@article{little1981maxband,
+  title={MAXBAND: A versatile program for setting signals on arteries and triangular networks},
+  author={Little, John DC and Kelson, Mark D and Gartner, Nathan H},
+  year={1981},
+  publisher={Alfred P. Sloan School of Management, Massachusetts Institute of Technology}
+}
+
+@article{gartner1991multi,
+  title={A multi-band approach to arterial traffic signal optimization},
+  author={Gartner, Nathan H and Assman, Susan F and Lasaga, Fernando and Hou, Dennis L},
+  journal={Transportation Research Part B: Methodological},
+  volume={25},
+  number={1},
+  pages={55--74},
+  year={1991},
+  publisher={Elsevier}
+}
+
+@article{zhang2015band,
+  title={AM-band: an asymmetrical multi-band model for arterial traffic signal coordination},
+  author={Zhang, Chao and Xie, Yuanchang and Gartner, Nathan H and Stamatiadis, Chronis and Arsava, Tugba},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={58},
+  pages={515--531},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{lin2010synchronized,
+  title={Synchronized signal control model for maximizing progression along an arterial},
+  author={Lin, Liang-Tay and Tung, Li-Wei and Ku, Hsin-Chuan},
+  journal={Journal of Transportation Engineering},
+  volume={136},
+  number={8},
+  pages={727--735},
+  year={2010},
+  publisher={American Society of Civil Engineers}
+}
+
+@article{卢凯2009经典干道协调控制信号配时数解算法的改进,
+  title={经典干道协调控制信号配时数解算法的改进},
+  author={卢凯 and 徐建闽 and 叶瑞敏},
+  journal={公路交通科技},
+  volume={16},
+  number={1},
+  pages={120--124},
+  year={2009}
+}
+
+@article{王殿海2011交通信号干线协调控制经典数值计算法的改进,
+  title={交通信号干线协调控制经典数值计算法的改进},
+  author={王殿海 and 杨希锐 and 宋现敏},
+  journal={吉林大学学报 (工学版)},
+  volume={41},
+  number={01},
+  pages={29--0034},
+  year={2011}
+}
+
+@article{dai2016signal,
+  title={Signal optimization and coordination for bus progression based on MAXBAND},
+  author={Dai, Guangyuan and Wang, Hao and Wang, Wei},
+  journal={KSCE Journal of Civil Engineering},
+  volume={20},
+  pages={890--898},
+  year={2016},
+  publisher={Springer}
+}
+
+@techreport{an2015new,
+  title={A new one-way bandwidth-based traffic signal coordination approach based on travel speed variations},
+  author={An, Chengchuan and Xia, Jingxin and Lu, Zhenbo and Huang, Wei and Nie, Qinghui},
+  year={2015}
+}
+
+@article{马楠2011干道信号交叉口群协调控制系统中的影响因素,
+  title={干道信号交叉口群协调控制系统中的影响因素},
+  author={马楠 and 邵春福 and 赵熠},
+  journal={哈尔滨工业大学学报},
+  volume={43},
+  number={6},
+  pages={112--117},
+  year={2011}
+}
+
+@article{马莹莹2009信号控制交叉口周期时长多目标优化模型及求解,
+  title={信号控制交叉口周期时长多目标优化模型及求解},
+  author={马莹莹 and 杨晓光 and 曾滢},
+  journal={同济大学学报: 自然科学版},
+  volume={37},
+  number={6},
+  pages={761--765},
+  year={2009}
+}
+
+@misc{李海渊1987交通控制系统手册,
+  title={交通控制系统手册},
+  author={李海渊 and others},
+  year={1987},
+  publisher={北京: 人民交通出版社}
+}
+
+@article{卢凯2009相邻交叉口关联度分析及其应用,
+  title={相邻交叉口关联度分析及其应用},
+  author={卢凯 and 徐建闽 and 郑淑鉴},
+  journal={华南理工大学学报: 自然科学版},
+  number={11},
+  pages={37--42},
+  year={2009}
+}
+
+@article{杨洁2012城市信号控制交叉口群路径关联度模型,
+  title={城市信号控制交叉口群路径关联度模型},
+  author={杨洁 and 过秀成 and 李岩 and 何赏璐 and 刘迎},
+  journal={交通运输系统工程与信息},
+  volume={12},
+  number={1},
+  pages={55--62},
+  year={2012}
+}
+
+@article{李岩2012基于小波变换的关联交叉口群关键路径识别方法,
+  title={基于小波变换的关联交叉口群关键路径识别方法},
+  author={李岩 and 杨洁 and 过秀成 and 严亚丹},
+  journal={中国公路学报},
+  volume={25},
+  number={1},
+  pages={135--140},
+  year={2012}
+}
+
+@article{马万经2009基于路径的信号控制交叉口关联度计算模型,
+  title={基于路径的信号控制交叉口关联度计算模型},
+  author={马万经 and 李晓丹 and 杨晓光},
+  journal={同济大学学报: 自然科学版},
+  number={11},
+  pages={1462--1466},
+  year={2009}
+}
+
+@article{arsava2016arterial,
+  title={Arterial progression optimization using OD-BAND: case study and extensions},
+  author={Arsava, Tugba and Xie, Yuanchang and Gartner, Nathan H},
+  journal={Transportation Research Record},
+  volume={2558},
+  number={1},
+  pages={1--10},
+  year={2016},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@article{yan2019network,
+  title={Network-level multiband signal coordination scheme based on vehicle trajectory data},
+  author={Yan, Huimin and He, Fang and Lin, Xi and Yu, Jiaying and Li, Meng and Wang, Yinhai},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={107},
+  pages={266--286},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{yao2019optimization,
+  title={An optimization model for arterial coordination control based on sampled vehicle trajectories: The STREAM model},
+  author={Yao, Jiarong and Tan, Chaopeng and Tang, Keshuang},
+  journal={Transportation research part C: emerging technologies},
+  volume={109},
+  pages={211--232},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{yang2015multi,
+  title={A multi-path progression model for synchronization of arterial traffic signals},
+  author={Yang, Xianfeng and Cheng, Yao and Chang, Gang-Len},
+  journal={Transportation research part C: emerging technologies},
+  volume={53},
+  pages={93--111},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{zhang2016improving,
+  title={Improving method of real-time offset tuning for arterial signal coordination using probe trajectory data},
+  author={Zhang, Jian and Cheng, Yang and He, Shanglu and Ran, Bin},
+  journal={Advances in Mechanical Engineering},
+  volume={9},
+  number={1},
+  pages={1687814016683355},
+  year={2016},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@book{walinchus1971real,
+  title={Real-time network decomposition and subnetwork interfacing},
+  author={Walinchus, RJ},
+  number={HS-011 999},
+  year={1971}
+}
+
+@article{tian2007system,
+  title={System partition technique to improve signal coordination and traffic progression},
+  author={Tian, Zong and Urbanik, Thomas},
+  journal={Journal of transportation engineering},
+  volume={133},
+  number={2},
+  pages={119--128},
+  year={2007},
+  publisher={American Society of Civil Engineers}
+}
+
+@article{曲大义2019考虑多特性因素的路网交叉口群动态划分方法,
+  title={考虑多特性因素的路网交叉口群动态划分方法},
+  author={曲大义 and 贾彦峰 and 刘冬梅 and 杨晶茹 and 王五林},
+  journal={吉林大学学报 (工学版)},
+  volume={49},
+  number={5},
+  pages={1478--1483},
+  year={2019}
+}
+
+@article{杨庆芳2006交通控制子区动态划分方法,
+  title={交通控制子区动态划分方法},
+  author={杨庆芳 and 陈林},
+  journal={吉林大学学报 (工学版)},
+  volume={36},
+  number={增刊 2},
+  pages={139--142},
+  year={2006}
+}
+
+@article{别一鸣2013城市路网交通控制子区动态划分策略,
+  title={城市路网交通控制子区动态划分策略},
+  author={别一鸣 and 王琳虹 and 王殿海 and 宋现敏},
+  journal={中国公路学报},
+  volume={26},
+  number={6},
+  pages={157},
+  year={2013}
+}
+
+@article{田秀娟2019基于改进,
+  title={基于改进 Newman 算法的动态控制子区划分},
+  author={田秀娟 and 于德新 and 周户星 and 邢雪 and 王世广},
+  journal={浙江大学学报 (工学版)},
+  year={2019}
+}
+
+@article{bie2013modelling,
+  title={Modelling correlation degree between two adjacent signalised intersections for dynamic subarea partition},
+  author={Bie, Yiming and Wang, Dianhai and Qu, Xiaobo},
+  journal={IET Intelligent Transport Systems},
+  volume={7},
+  number={1},
+  pages={28--35},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{hu2018correlation,
+  title={Correlation degree analysis of arterial adjacent intersections for coordinated control subunit partition},
+  author={Hu, Yawen and Wang, Yunpeng and Zhang, Junfeng and Yu, Haiyang},
+  journal={Advances in Mechanical Engineering},
+  volume={10},
+  number={1},
+  pages={1687814017748748},
+  year={2018},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{lan2020research,
+  title={Research on Key Technology of signal control subarea partition based on correlation degree analysis},
+  author={Lan, Huihui and Wu, Xianyu},
+  journal={Mathematical Problems in Engineering},
+  volume={2020},
+  pages={1--12},
+  year={2020},
+  publisher={Hindawi Limited}
+}
+
+@article{ke2022subarea,
+  title={Subarea Partition Based on Correlation Analysis with Edge-Elimination Strategy Using Automatic License Plate Recognition Data},
+  author={Ke, Siping and Liu, Wei and Lu, Zhenbo and Rao, Wenming and An, Chengchuan and Xia, Jingxin},
+  journal={Transportation Research Record},
+  pages={03611981221096439},
+  year={2022},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@techreport{zhang2014system,
+  title={System partition method to improve arterial signal coordination},
+  author={Zhang, Tao and Zhang, Yunlong},
+  year={2014}
+}
+
+@article{唐小军2015基于带宽最大化的城市干线子区划分技术研究,
+  title={基于带宽最大化的城市干线子区划分技术研究},
+  author={唐小军 and 赵胜川 and 章立辉},
+  journal={交通运输系统工程与信息},
+  volume={15},
+  number={3},
+  pages={100--106},
+  year={2015}
+}
+
+@inproceedings{liu2019improved,
+  title={An improved sub-networks partitioning method for urban traffic networks},
+  author={Liu, Qiang and Wang, Qing and Liu, Shu-an},
+  booktitle={2019 Chinese Control And Decision Conference (CCDC)},
+  pages={6405--6410},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{赵靖2016基于宏观基本图的相邻子区协调控制方法,
+  title={基于宏观基本图的相邻子区协调控制方法},
+  author={赵靖 and 马万经 and 汪涛 and 廖大彬},
+  journal={交通运输系统工程与信息},
+  volume={16},
+  number={1},
+  pages={78--84},
+  year={2016}
+}
+
+@mastersthesis{乐浩成2013基于子区动态划分的城市交通信号协调控制,
+  title={基于子区动态划分的城市交通信号协调控制},
+  author={乐浩成},
+  year={2013},
+  school={浙江工业大学}
+}
+
+@article{hao2018signal,
+  title={Signal progression model for long arterial: intersection grouping and coordination},
+  author={Hao, Wei and Lin, Yongjie and Cheng, Yao and Yang, Xianfeng},
+  journal={IEEE Access},
+  volume={6},
+  pages={30128--30136},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{zhang2016signal,
+  title={Signal coordination models for long arterials and grid networks},
+  author={Zhang, Lihui and Song, Ziqi and Tang, Xiaojun and Wang, Dianhai},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={71},
+  pages={215--230},
+  year={2016},
+  publisher={Elsevier}
+}
