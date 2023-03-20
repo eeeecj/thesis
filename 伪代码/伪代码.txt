@@ -1,0 +1,47 @@
+算法 1速度扰动下干道最大带宽协调控制 
+Input:绿信比 g,交叉口间距 d,速度分布期望 μ,速度分布方差 σ,足够大正数 M,速度下限 e,速度上限 f，速度区间 .,最小带宽 be,左转清空时间 τ 
+Output:交叉口偏移量 o 
+1: r . 1 . g, obj . 0 
+2: Compute ti for 1 ≤ i ≤ I according constraints Multiband 
+3: A ′ 0 . o0 + r0, B0 ′ . o0 + r0 + g0 
+4: Iterative solution(A ′ 0,B0′ ,t) 
+5: for j =1 → len(.) do //len()为求列表长度 
+
+6: A ′ . o0 + r0, B ′ . o0 + r0 + g0, t . d 
+
+00 v 
+
+7: ej . Iterative solution(A ′ 0,B0′ ,t) 
+
+8: obj+= ej . getP rop(μ, σ, v) // getP rop()为获取速度 v下的车辆占比 
+
+9: end for 
+
+10: function Iterative solution(A ′ 0, B0′ ,t) 
+
+11: for i =1 → I do //i为迭代次数,I为交叉口数量 
+
+12: A0 ′ . o0 + r0, B0 ′ . o0 + r0 + g0, v . .[i], 
+
+13: Ai ′ . max(A ′ i + ti.1 . τi,oi + ri + nj,i) //n为整形变量 
+
+14: B ′ . min(Bi ′ + ti.1,oi + ri + gi + nj,i)
+
+15: be . M(1 . yj) ≤ B ′ . A ′ ≤ gi + M(1 . yj)
+
+ii 
+
+16: end for 
+
+17: return B ′ . An ′ 
+
+n 
+
+18: end function 
+
+19: Add Inbound Constraints 
+
+20: return o 
+
+
+i 
